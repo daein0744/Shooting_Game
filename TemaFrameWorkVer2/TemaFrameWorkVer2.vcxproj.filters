@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="00. Header">
+      <UniqueIdentifier>{55b0cb08-2f43-43aa-89e3-977a583ea532}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object">
+      <UniqueIdentifier>{aaa66918-f41f-4d00-a302-1e21229d41b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Design">
+      <UniqueIdentifier>{7c4c142e-e2fc-4ecb-9da2-9d8f02d58046}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\02. Bullet">
+      <UniqueIdentifier>{a1d1f4ba-1d29-4ca6-83ce-fb2381007245}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\01 .Player">
+      <UniqueIdentifier>{fc7accf9-333f-49ee-95ce-cbe2844c26a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\03. Monster">
+      <UniqueIdentifier>{2cdc070a-d41a-4c98-8b80-3b38cd41f261}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\04. Mouse">
+      <UniqueIdentifier>{57e9b94e-9e7c-4fdb-90b9-0b5443c08727}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\02. Bullet\01. NormalBullet">
+      <UniqueIdentifier>{82087288-5ad7-43b2-b537-b1f865e0d099}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\02. Bullet\02. SBullet">
+      <UniqueIdentifier>{248582ef-a573-4f05-8644-83c6b8433cdb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\02. Bullet\03. TrackBullet">
+      <UniqueIdentifier>{1dd58122-3bd0-49b7-8f81-3faee17549a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\05. Item">
+      <UniqueIdentifier>{5faf7290-b53e-4c25-9259-d5259e2e756a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\05. Item\01. NormalBullet">
+      <UniqueIdentifier>{77f6f70f-4e5a-4a89-ab23-a62502e098cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\05. Item\02. SBullet">
+      <UniqueIdentifier>{6a84f1aa-3493-48a4-9d9f-8ffaf7b18ec2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\05. Item\03. TrackBullet">
+      <UniqueIdentifier>{56647659-b077-45f0-aee4-ba436d254717}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\05. Item\04. ShotGunBullet">
+      <UniqueIdentifier>{be6241b6-da61-4e7c-a71d-465d9607ad41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\06. MiniFlight">
+      <UniqueIdentifier>{e1dd5fb6-b775-47a2-918c-9f3a1ddebb6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\03. Monster\02. Monster2">
+      <UniqueIdentifier>{3d30b42a-8722-4e38-880c-bf817227ab9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\03. Monster\01 dummyMonster">
+      <UniqueIdentifier>{107d2001-f29f-4612-9c1f-d07c15f23bba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\03. Monster\03. Monster3">
+      <UniqueIdentifier>{ee606b47-ce59-4506-909b-64b84b3fed3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\03. Monster\04. Monster4">
+      <UniqueIdentifier>{92e42482-2f35-47fb-9d7e-548d01a1f761}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\03. Monster\05. Boss1">
+      <UniqueIdentifier>{69cfb12c-c484-4d84-8b4f-55b782095640}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\03. Monster\06. Boss2">
+      <UniqueIdentifier>{73dac0cf-1767-45f6-a568-8561512d0ffd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\03. Monster\07. WallMonster">
+      <UniqueIdentifier>{674d78d7-626a-4e61-abe5-0e73def681f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Scene">
+      <UniqueIdentifier>{d8b06e57-ca4b-4d33-952a-b70b9aab6046}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. UI">
+      <UniqueIdentifier>{83bd57d4-622b-4b0a-862a-c494f5f67509}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Design\01. AbstractFactory">
+      <UniqueIdentifier>{2885f7e3-6149-4f09-a51b-72d1363af6c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Design\02. CollisionMgr">
+      <UniqueIdentifier>{62cbeca7-5034-413f-9921-6c010687542d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Design\04. UIMgr">
+      <UniqueIdentifier>{d5ece492-dc74-4baf-a934-47f032dbe15c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. UI\01. HP">
+      <UniqueIdentifier>{51a0a4f5-797a-4a59-ac1f-6a78f8b90986}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Design\05. SceneMgr">
+      <UniqueIdentifier>{c843a19e-0c73-4c02-9009-ad44c167df2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Design\03. ObjMgr">
+      <UniqueIdentifier>{a63d41c6-c56e-4bdd-a717-20dc0a5afd89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Scene\02. Stage1">
+      <UniqueIdentifier>{01b4958c-ce21-4b29-bbbd-3583ea6c8484}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. UI\02. GameOverUI">
+      <UniqueIdentifier>{ca669c59-e8d8-4ccb-ab76-43c73c7965ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Scene\00. StartScene">
+      <UniqueIdentifier>{ce0438c8-95bb-476b-88ca-efe2fea170ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Scene\01. GameOver">
+      <UniqueIdentifier>{3d6131d7-0c31-46d5-a7ac-47ad2cf9c6c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Scene\03. Stage2">
+      <UniqueIdentifier>{e16889c9-1b9c-4c38-beac-035caf7fd110}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\07. Border">
+      <UniqueIdentifier>{4b0026fb-5200-4834-a20d-b96be7ca46fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. UI\03. ScoreUI">
+      <UniqueIdentifier>{0f0bf0c6-ac07-4f0f-a8a4-18201ab7de00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\08. Boom">
+      <UniqueIdentifier>{e6d3f7de-8815-41d2-b6a0-d09ec4ccc308}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. UI\04. BoomUI">
+      <UniqueIdentifier>{03d1553b-ab38-4e6a-9b71-e2bbd950ca81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. UI\05. BulletTypeUI">
+      <UniqueIdentifier>{d793626d-0899-4963-ac4c-40c9f971804e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Object\09. Shield">
+      <UniqueIdentifier>{f4342966-a4ba-460b-9c81-ed0ccd8e4b71}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TemaFrameWorkVer2.h">
+      <Filter>리소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>리소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>리소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>00. Header</Filter>
+    </ClInclude>
+    <ClInclude Include="define.h">
+      <Filter>00. Header</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h" />
+    <ClInclude Include="Obj.h">
+      <Filter>01. Object</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionMgr.h">
+      <Filter>02. Design\02. CollisionMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>01. Object\01 .Player</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractFactory.h">
+      <Filter>02. Design\01. AbstractFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
+      <Filter>01. Object\04. Mouse</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>01. Object\03. Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjMgr.h">
+      <Filter>02. Design\03. ObjMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="NormalBullet.h">
+      <Filter>01. Object\02. Bullet\01. NormalBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="SBullet.h">
+      <Filter>01. Object\02. Bullet\02. SBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="TrackBullet.h">
+      <Filter>01. Object\02. Bullet\03. TrackBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>01. Object\02. Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>01. Object\05. Item</Filter>
+    </ClInclude>
+    <ClInclude Include="NormalItem.h">
+      <Filter>01. Object\05. Item\01. NormalBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="SBulletItem.h">
+      <Filter>01. Object\05. Item\02. SBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="TrackItem.h">
+      <Filter>01. Object\05. Item\03. TrackBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="ShotBullet.h">
+      <Filter>01. Object\05. Item\04. ShotGunBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniFlight.h">
+      <Filter>01. Object\06. MiniFlight</Filter>
+    </ClInclude>
+    <ClInclude Include="dummyMonster.h">
+      <Filter>01. Object\03. Monster\01 dummyMonster</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster2.h">
+      <Filter>01. Object\03. Monster\02. Monster2</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster3.h">
+      <Filter>01. Object\03. Monster\03. Monster3</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster4.h">
+      <Filter>01. Object\03. Monster\04. Monster4</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss1.h">
+      <Filter>01. Object\03. Monster\05. Boss1</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss2.h">
+      <Filter>01. Object\03. Monster\06. Boss2</Filter>
+    </ClInclude>
+    <ClInclude Include="WallMonster.h">
+      <Filter>01. Object\03. Monster\07. WallMonster</Filter>
+    </ClInclude>
+    <ClInclude Include="UIMgr.h">
+      <Filter>02. Design\04. UIMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>03. UI</Filter>
+    </ClInclude>
+    <ClInclude Include="HP.h">
+      <Filter>03. UI\01. HP</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneMgr.h">
+      <Filter>02. Design\05. SceneMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>04. Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage1.h">
+      <Filter>04. Scene\02. Stage1</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOverUI.h">
+      <Filter>03. UI\02. GameOverUI</Filter>
+    </ClInclude>
+    <ClInclude Include="StartScene.h">
+      <Filter>04. Scene\00. StartScene</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOver.h">
+      <Filter>04. Scene\01. GameOver</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage2.h">
+      <Filter>04. Scene\03. Stage2</Filter>
+    </ClInclude>
+    <ClInclude Include="Border.h">
+      <Filter>01. Object\07. Border</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreUI.h">
+      <Filter>03. UI\03. ScoreUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Boom.h">
+      <Filter>01. Object\08. Boom</Filter>
+    </ClInclude>
+    <ClInclude Include="BoomUI.h">
+      <Filter>03. UI\04. BoomUI</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletTypeUI.h">
+      <Filter>03. UI\05. BulletTypeUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Shield.h">
+      <Filter>01. Object\09. Shield</Filter>
+    </ClInclude>
+    <ClInclude Include="Line.h">
+      <Filter>03. UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TemaFrameWorkVer2.cpp" />
+    <ClCompile Include="MainGame.cpp" />
+    <ClCompile Include="Obj.cpp">
+      <Filter>01. Object</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionMgr.cpp">
+      <Filter>02. Design\02. CollisionMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>01. Object\01 .Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>01. Object\04. Mouse</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>01. Object\03. Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjMgr.cpp">
+      <Filter>02. Design\03. ObjMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalBullet.cpp">
+      <Filter>01. Object\02. Bullet\01. NormalBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="SBullet.cpp">
+      <Filter>01. Object\02. Bullet\02. SBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="TrackBullet.cpp">
+      <Filter>01. Object\02. Bullet\03. TrackBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>01. Object\02. Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>01. Object\05. Item</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalItem.cpp">
+      <Filter>01. Object\05. Item\01. NormalBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="SBulletItem.cpp">
+      <Filter>01. Object\05. Item\02. SBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="TrackItem.cpp">
+      <Filter>01. Object\05. Item\03. TrackBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="ShotBullet.cpp">
+      <Filter>01. Object\05. Item\04. ShotGunBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="MiniFlight.cpp">
+      <Filter>01. Object\06. MiniFlight</Filter>
+    </ClCompile>
+    <ClCompile Include="dummyMonster.cpp">
+      <Filter>01. Object\03. Monster\01 dummyMonster</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster2.cpp">
+      <Filter>01. Object\03. Monster\02. Monster2</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster3.cpp">
+      <Filter>01. Object\03. Monster\03. Monster3</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster4.cpp">
+      <Filter>01. Object\03. Monster\04. Monster4</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss1.cpp">
+      <Filter>01. Object\03. Monster\05. Boss1</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss2.cpp">
+      <Filter>01. Object\03. Monster\06. Boss2</Filter>
+    </ClCompile>
+    <ClCompile Include="WallMonster.cpp">
+      <Filter>01. Object\03. Monster\07. WallMonster</Filter>
+    </ClCompile>
+    <ClCompile Include="UIMgr.cpp">
+      <Filter>02. Design\04. UIMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>03. UI</Filter>
+    </ClCompile>
+    <ClCompile Include="HP.cpp">
+      <Filter>03. UI\01. HP</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneMgr.cpp">
+      <Filter>02. Design\05. SceneMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>04. Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage1.cpp">
+      <Filter>04. Scene\02. Stage1</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOverUI.cpp">
+      <Filter>03. UI\02. GameOverUI</Filter>
+    </ClCompile>
+    <ClCompile Include="StartScene.cpp">
+      <Filter>04. Scene\00. StartScene</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOver.cpp">
+      <Filter>04. Scene\01. GameOver</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage2.cpp">
+      <Filter>04. Scene\03. Stage2</Filter>
+    </ClCompile>
+    <ClCompile Include="Border.cpp">
+      <Filter>01. Object\07. Border</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreUI.cpp">
+      <Filter>03. UI\03. ScoreUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Boom.cpp">
+      <Filter>01. Object\08. Boom</Filter>
+    </ClCompile>
+    <ClCompile Include="BoomUI.cpp">
+      <Filter>03. UI\04. BoomUI</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletTypeUI.cpp">
+      <Filter>03. UI\05. BulletTypeUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Shield.cpp">
+      <Filter>01. Object\09. Shield</Filter>
+    </ClCompile>
+    <ClCompile Include="Line.cpp">
+      <Filter>03. UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TemaFrameWorkVer2.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="TemaFrameWorkVer2.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

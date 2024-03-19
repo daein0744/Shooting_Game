@@ -1,0 +1,279 @@
+﻿  stdafx.cpp
+  WallMonster.cpp
+  UIMgr.cpp
+  UI.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\ui.cpp(17): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\ui.cpp(18): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TrackItem.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackitem.cpp(42): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackitem.cpp(43): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackitem.cpp(46): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackitem.cpp(46): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackitem.cpp(47): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackitem.cpp(48): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackitem.cpp(49): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackitem.cpp(50): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TrackBullet.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackbullet.cpp(25): warning C4244: '=': 'const float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackbullet.cpp(26): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackbullet.cpp(33): warning C4244: '=': 'const float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackbullet.cpp(34): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackbullet.cpp(77): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackbullet.cpp(78): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackbullet.cpp(89): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackbullet.cpp(89): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackbullet.cpp(90): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackbullet.cpp(91): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackbullet.cpp(92): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackbullet.cpp(93): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\trackbullet.cpp(93): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TemaFrameWorkVer2.cpp
+  StartScene.cpp
+  Stage2.cpp
+  Stage1.cpp
+  ShotBullet.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\shotbullet.cpp(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\shotbullet.cpp(40): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\shotbullet.cpp(41): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\shotbullet.cpp(45): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\shotbullet.cpp(46): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\shotbullet.cpp(47): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\shotbullet.cpp(47): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\shotbullet.cpp(48): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\shotbullet.cpp(48): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\shotbullet.cpp(49): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Shield.cpp
+  ScoreUI.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\scoreui.cpp(41): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\scoreui.cpp(42): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\scoreui.cpp(46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SceneMgr.cpp
+  Scene.cpp
+  SBulletItem.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\sbulletitem.cpp(44): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\sbulletitem.cpp(45): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\sbulletitem.cpp(47): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\sbulletitem.cpp(47): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\sbulletitem.cpp(48): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\sbulletitem.cpp(48): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\sbulletitem.cpp(49): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\sbulletitem.cpp(50): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\sbulletitem.cpp(50): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SBullet.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\sbullet.cpp(63): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\sbullet.cpp(64): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\sbullet.cpp(76): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\sbullet.cpp(77): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\sbullet.cpp(78): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\sbullet.cpp(78): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(78): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(79): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(95): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(96): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(97): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(98): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(99): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(99): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(101): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(102): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(104): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(105): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(107): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(108): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(109): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(111): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(113): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(114): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(115): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(116): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(118): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(119): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(120): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\player.cpp(121): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ObjMgr.cpp
+  Obj.cpp
+  NormalItem.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  NormalBullet.cpp
+  Mouse.cpp
+  Monster4.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster4.cpp(70): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster4.cpp(71): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster4.cpp(74): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster4.cpp(75): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster4.cpp(75): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster4.cpp(76): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster4.cpp(76): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster4.cpp(77): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster4.cpp(77): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Monster3.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster3.cpp(74): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster3.cpp(75): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster3.cpp(78): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster3.cpp(79): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster3.cpp(80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster3.cpp(81): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster3.cpp(82): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster3.cpp(83): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster3.cpp(84): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Monster2.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster2.cpp(67): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster2.cpp(68): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster2.cpp(71): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster2.cpp(72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster2.cpp(73): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster2.cpp(74): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster2.cpp(75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\monster2.cpp(76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Monster.cpp
+  MiniFlight.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\miniflight.cpp(89): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\miniflight.cpp(90): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\miniflight.cpp(92): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\miniflight.cpp(92): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\miniflight.cpp(93): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\miniflight.cpp(93): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\miniflight.cpp(94): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\miniflight.cpp(95): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\miniflight.cpp(95): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MainGame.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\maingame.cpp(62): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\maingame.cpp(63): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\maingame.cpp(64): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\maingame.cpp(66): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\maingame.cpp(67): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\maingame.cpp(68): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\maingame.cpp(69): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Line.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\line.cpp(21): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\line.cpp(49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\line.cpp(50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item.cpp
+  HP.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\hp.cpp(46): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\hp.cpp(47): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\hp.cpp(50): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\hp.cpp(51): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\hp.cpp(52): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\hp.cpp(52): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\hp.cpp(53): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\hp.cpp(54): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\hp.cpp(55): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\hp.cpp(55): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\hp.cpp(56): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\hp.cpp(57): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\hp.cpp(57): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\hp.cpp(67): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\hp.cpp(68): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\hp.cpp(69): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\hp.cpp(70): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameOverUI.cpp
+  GameOver.cpp
+  dummyMonster.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\dummymonster.cpp(67): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\dummymonster.cpp(68): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\dummymonster.cpp(70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\dummymonster.cpp(71): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\dummymonster.cpp(72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\dummymonster.cpp(72): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\dummymonster.cpp(73): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\dummymonster.cpp(74): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\dummymonster.cpp(75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CollisionMgr.cpp
+  BulletTypeUI.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(43): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(44): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(54): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(55): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(57): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(57): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(58): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(58): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(59): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(60): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(60): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(64): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(65): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(69): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(70): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(71): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(71): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(72): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(72): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(73): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(78): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(79): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(82): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(82): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(83): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(84): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(85): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\bullettypeui.cpp(86): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Bullet.cpp
+  Boss2.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(83): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(84): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(139): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(140): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(144): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(145): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(146): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(149): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(150): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(150): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(151): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(151): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(152): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(154): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(155): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(155): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(156): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(156): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(157): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(159): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(160): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(160): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(161): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(161): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(162): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(164): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(165): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(165): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(166): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(166): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss2.cpp(167): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Boss1.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss1.cpp(83): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss1.cpp(84): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss1.cpp(88): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss1.cpp(89): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss1.cpp(90): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss1.cpp(91): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss1.cpp(93): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss1.cpp(94): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss1.cpp(96): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss1.cpp(97): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss1.cpp(98): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss1.cpp(99): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss1.cpp(100): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss1.cpp(101): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss1.cpp(102): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boss1.cpp(104): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Border.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  BoomUI.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boomui.cpp(46): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boomui.cpp(47): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boomui.cpp(51): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boomui.cpp(51): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Boom.cpp
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boom.cpp(46): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boom.cpp(47): warning C4244: '초기화 중': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boom.cpp(51): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skdye\downloads\temaframeworkver2\temaframeworkver2\boom.cpp(51): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  LINK : C:\Users\skdye\Downloads\TemaFrameWorkVer2\Debug\TemaFrameWorkVer2.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  TemaFrameWorkVer2.vcxproj -> C:\Users\skdye\Downloads\TemaFrameWorkVer2\Debug\TemaFrameWorkVer2.exe
